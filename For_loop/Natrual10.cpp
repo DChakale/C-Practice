@@ -1,6 +1,5 @@
 // Display 10 natural numbers (Using for loop)
 
-
 #include<iostream>
 using namespace std;
 int main(){
