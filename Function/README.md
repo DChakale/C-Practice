@@ -5,8 +5,8 @@
 - There are two types of functions
 
 <h1>Functions </h1>
-<h4 text-align=center> Built in Function </h4>
-<h4 text-align=center> User Define </h4>
+<h4 align="center"> Built in Function </h4>
+<h4 align="center"> User Define </h4>
 
 ## Built in :
 
